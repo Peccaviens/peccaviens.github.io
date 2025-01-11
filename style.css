@@ -103,8 +103,27 @@ h1 {
 	padding-left: 10px;
 	padding-right: 10px
 }
-
-img {
+.about-image {
+  color: white;
+  text-align: center;
+  font-family: "Delius", serif;
+  font-weight: 12;
+  font-style: normal;
+  color: white;
+  font-size: calc(3vw + 1vh);
+  align=center;
+  filter: blur(0px);
+  -webkit-filter: blur(0px);
+  border-color: white;
+  border-style: solid;
+  border-width: thick;
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+.home-logo {
   color: white;
   text-align: center;
   font-family: "Delius", serif;
